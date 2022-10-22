@@ -18,3 +18,6 @@
 
 - [Pythonで学ぶ音源分離（機械学習実践シリーズ）](https://github.com/masahitotogami/python_source_separation)
 
+- [ゼロから作る Deep Learning ❸](https://github.com/oreilly-japan/deep-learning-from-scratch-3)
+
+- [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
