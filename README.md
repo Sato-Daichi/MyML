@@ -6,7 +6,9 @@
 
 |フォルダ名|説明|
 |--------|---|
+|just_for_fun|遊んでみた|
 |sound_processing|音声処理|
+|vanilla_python|生のPython|
 
 ## 実行環境
 
