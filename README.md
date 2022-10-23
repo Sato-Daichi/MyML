@@ -9,6 +9,7 @@
 |just_for_fun|遊んでみた|
 |sound_processing|音声処理|
 |vanilla_python|生のPython|
+|tools|便利なツール|
 
 ## 実行環境
 
