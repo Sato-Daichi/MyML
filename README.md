@@ -6,10 +6,12 @@
 
 |フォルダ名|説明|
 |--------|---|
-|just_for_fun|遊んでみた|
+|huggingface|Hugging Faceのライブラリの使い方|
+|keras|Kerasの使い方|
+|pytorch|PyTorchの使い方|
 |sound_processing|音声処理|
-|vanilla_python|生のPython|
-|tools|便利なツール|
+|statistics|統計学|
+|utils|便利なライブラリ・コード|
 
 ## 実行環境
 
