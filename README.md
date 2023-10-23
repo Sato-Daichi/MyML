@@ -6,12 +6,13 @@
 
 |フォルダ名|説明|
 |--------|---|
-|basis|機械学習の基礎|
-|huggingface|Hugging Faceのライブラリの使い方|
-|keras|Kerasの使い方|
-|pytorch|PyTorchの使い方|
+|generative_ai|生成系AI|
+|huggingface|HuggingFaceのライブラリ|
+|keras|Keras|
+|pytorch|PyTorch|
 |sound_processing|音声処理|
 |statistics|統計学|
+|table|機械学習の基礎|
 |utils|便利なライブラリ・コード|
 
 ## 実行環境
