@@ -8,27 +8,14 @@
 
 |フォルダ名|説明|
 |--------|---|
-|generative_ai|生成系AI|
-|huggingface|HuggingFaceのライブラリ|
-|keras|Keras|
-|pytorch|PyTorch|
-|sound_processing|音声処理|
+|cv|computer vision|
+|dl|basis of deep learning|
+|nlp|natural language processing|
+|sound|sound processing|
 |statistics|統計学|
-|table|機械学習の基礎|
+|table|tabular data|
 |utils|便利なライブラリ・コード|
 
 ## 実行環境
 
-[Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
-
-## 参考・関連リポジトリ
-
-- [Pythonで学ぶ音源分離（機械学習実践シリーズ）](https://github.com/masahitotogami/python_source_separation)
-
-- [ゼロから作る Deep Learning ❸](https://github.com/oreilly-japan/deep-learning-from-scratch-3)
-
-- [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
-
-- [chiVe](https://github.com/WorksApplications/chiVe)
-
-- [whatlies](https://github.com/koaning/whatlies)
+基本的に[Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
